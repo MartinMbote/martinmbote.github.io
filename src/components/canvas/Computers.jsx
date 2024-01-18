@@ -59,6 +59,7 @@ const ComputersCanvas = () => {
       shadows
       camera={{ position: [20, 3, 5], fov: 25 }}
       gl={{ preserveDrawingBuffer: true }}
+      className='z-[0]'
     >
       <Suspense>
         <OrbitControls enableZoom={false} maxPolarAngle={Math.PI / 2} minPolarAngle={Math.PI / 2}  />   {/*to control the orbit camera of the model*/}

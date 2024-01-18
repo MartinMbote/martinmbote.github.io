@@ -46,15 +46,15 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "React Developer",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "Front End Developer",
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "UI Designer",
       icon: creator,
     },
   ];
@@ -104,11 +104,11 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
+      title: "Toto Genius",
+      company_name: "@iLabAfrica",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "September 2022 - November 2022",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -186,62 +186,84 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Toto Genius",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "A UI prototype of a website that will be used as a platform for kids to learn through educative cartoons ",
       tags: [
         {
-          name: "react",
+          name: "figma",
           color: "blue-text-gradient",
-        },
-        {
-          name: "mongodb",
-          color: "green-text-gradient",
-        },
-        {
-          name: "tailwind",
-          color: "pink-text-gradient",
         },
       ],
       image: carrent,
       source_code_link: "https://github.com/",
     },
     {
-      name: "Job IT",
+      name: "Adapta [UI]",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "A Website that uses Artificial Intelligence to calculate if a client is approved for a loan",
       tags: [
         {
-          name: "react",
+          name: "figma",
           color: "blue-text-gradient",
-        },
-        {
-          name: "restapi",
-          color: "green-text-gradient",
-        },
-        {
-          name: "scss",
-          color: "pink-text-gradient",
         },
       ],
       image: jobit,
       source_code_link: "https://github.com/",
     },
     {
-      name: "Trip Guide",
+      name: "Sahartech [FrontEnd]",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "...",
       tags: [
         {
-          name: "nextjs",
+          name: "html",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "css",
           color: "green-text-gradient",
+        },
+      ],
+      image: tripguide,
+      source_code_link: "https://github.com/",
+    },
+    {
+      name: "My 2050 Carbon Calculator [FrontEnd]",
+      description:
+        "Website to calculate to the total Kenyan Carbon Emission in the atmosphere depending on various factors.",
+      tags: [
+        {
+          name: "html",
+          color: "blue-text-gradient",
         },
         {
           name: "css",
+          color: "green-text-gradient",
+        },
+        {
+          name: "javascript",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: tripguide,
+      source_code_link: "https://github.com/",
+    },
+    {
+      name: "Sustainable Jamii [FrontEnd]",
+      description:
+        "A youth empowerment website",
+      tags: [
+        {
+          name: "html",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "css",
+          color: "green-text-gradient",
+        },
+        {
+          name: "javascript",
           color: "pink-text-gradient",
         },
       ],
