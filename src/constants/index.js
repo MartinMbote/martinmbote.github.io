@@ -23,6 +23,8 @@ import {
     jobit,
     tripguide,
     threejs,
+    carboncalc,
+    SustainableJamii,
   } from "../assets";
   
   export const navLinks = [
@@ -186,7 +188,7 @@ import {
   
   const projects = [
     {
-      name: "Toto Genius",
+      name: "Toto Genius [FrontEnd]",
       description:
         "A UI prototype of a website that will be used as a platform for kids to learn through educative cartoons ",
       tags: [
@@ -196,7 +198,7 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/MartinMbote/Toto-Genius",
     },
     {
       name: "Adapta [UI]",
@@ -209,7 +211,7 @@ import {
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://www.figma.com/proto/6kYg1YRgus5MECBlGSkj6a/Adapta?node-id=1-2&starting-point-node-id=1%3A2&scaling=scale-down-width&mode=design&t=GJfp2TBskrANjd81-1",
     },
     {
       name: "Sahartech [FrontEnd]",
@@ -226,7 +228,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/MartinMbote/sahartech",
     },
     {
       name: "My 2050 Carbon Calculator [FrontEnd]",
@@ -246,8 +248,8 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: carboncalc,
+      source_code_link: "https://github.com/MartinMbote/My2050Calculator",
     },
     {
       name: "Sustainable Jamii [FrontEnd]",
@@ -267,7 +269,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: SustainableJamii,
       source_code_link: "https://github.com/",
     },
   ];
