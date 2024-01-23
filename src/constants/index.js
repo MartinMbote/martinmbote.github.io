@@ -160,7 +160,7 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+        "I thought it was impossible to make a website as beautiful as our product, but Morty proved me wrong.",
       name: "Sara Lee",
       designation: "CFO",
       company: "Acme Co",
